@@ -25,7 +25,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/github_username/new-mainmenu.git"
+    "url": "https://github.com/AdrySky/jupyterlab_mainmenu.git"
   },
   "scripts": {
     "build": "jlpm run build:lib && jlpm run build:labextension:dev",
